@@ -1,0 +1,8 @@
+c:\users\swebster.corp\documents\visual studio 2010\git\MomentApp\MomentApp\obj\Debug\ResolveAssemblyReference.cache
+c:\users\swebster.corp\documents\visual studio 2010\git\MomentApp\MomentApp\bin\Debug\MomentApp.dll
+c:\users\swebster.corp\documents\visual studio 2010\git\MomentApp\MomentApp\bin\Debug\MomentApp.pdb
+c:\users\swebster.corp\documents\visual studio 2010\git\MomentApp\MomentApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\swebster.corp\documents\visual studio 2010\git\MomentApp\MomentApp\bin\Debug\Newtonsoft.Json.pdb
+c:\users\swebster.corp\documents\visual studio 2010\git\MomentApp\MomentApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\swebster.corp\documents\visual studio 2010\git\MomentApp\MomentApp\obj\Debug\MomentApp.dll
+c:\users\swebster.corp\documents\visual studio 2010\git\MomentApp\MomentApp\obj\Debug\MomentApp.pdb

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2a9cb080-14cf-4b96-b17e-1c2ab299a93c" name="swebster@SWEBSTER-FUSION 2011-12-13 18:06:04" runUser="CORP\swebster" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4df3f120-1c0b-422c-ac06-774d00a188af">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="swebster_SWEBSTER-FUSION 2011-12-13 18_06_04">
+      <DeploymentItem filename="c:\users\swebster.corp\documents\visual studio 2010\git\MomentApp\MomentApp\bin\Debug\MomentApp.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-12-13T18:06:04.8945076-07:00" queuing="2011-12-13T18:06:05.8846066-07:00" start="2011-12-13T18:06:06.0826224-07:00" finish="2011-12-13T18:06:15.3675122-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestScheduleJob" storage="c:\users\swebster.corp\documents\visual studio 2010\git\momentapp\momentapp.tests\bin\debug\momentapp.tests.dll" id="4e8ffdc0-08e3-d9c8-dd48-7e709b2509a6">
+      <Execution id="9832bb0e-c9a4-43dd-b794-464c2ae5fa43" />
+      <TestMethod codeBase="c:/users/swebster.corp/documents/visual studio 2010/git/MomentApp/MomentApp.Tests/bin/Debug/MomentApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MomentApp.Tests.UnitTest1, MomentApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestScheduleJob" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4e8ffdc0-08e3-d9c8-dd48-7e709b2509a6" executionId="9832bb0e-c9a4-43dd-b794-464c2ae5fa43" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9832bb0e-c9a4-43dd-b794-464c2ae5fa43" testId="4e8ffdc0-08e3-d9c8-dd48-7e709b2509a6" testName="TestScheduleJob" computerName="SWEBSTER-FUSION" duration="00:00:07.9860514" startTime="2011-12-13T18:06:06.2226294-07:00" endTime="2011-12-13T18:06:15.2725027-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9832bb0e-c9a4-43dd-b794-464c2ae5fa43">
+    </UnitTestResult>
+  </Results>
+</TestRun>

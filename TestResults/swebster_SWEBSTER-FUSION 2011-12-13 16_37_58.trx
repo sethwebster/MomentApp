@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5119f86d-4b96-49dc-9f8d-3dacdc250c93" name="swebster@SWEBSTER-FUSION 2011-12-13 16:37:58" runUser="CORP\swebster" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="4df3f120-1c0b-422c-ac06-774d00a188af">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="c:\users\swebster.corp\documents\visual studio 2010\git\MomentApp\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="swebster_SWEBSTER-FUSION 2011-12-13 16_37_58">
+      <DeploymentItem filename="c:\users\swebster.corp\documents\visual studio 2010\git\MomentApp\MomentApp\bin\Debug\MomentApp.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-12-13T16:37:58.9698684-07:00" queuing="2011-12-13T16:38:00.1419856-07:00" start="2011-12-13T16:38:00.3020016-07:00" finish="2011-12-13T16:38:21.3211033-07:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="SWEBSTER-FUSION" outcome="Error" timestamp="2011-12-13T16:38:21.3201032-07:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestScheduleJob" storage="c:\users\swebster.corp\documents\visual studio 2010\git\momentapp\momentapp.tests\bin\debug\momentapp.tests.dll" id="4e8ffdc0-08e3-d9c8-dd48-7e709b2509a6">
+      <Execution id="db6de5f7-df79-4802-986d-267b96d3e6cb" />
+      <TestMethod codeBase="c:/users/swebster.corp/documents/visual studio 2010/git/MomentApp/MomentApp.Tests/bin/Debug/MomentApp.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MomentApp.Tests.UnitTest1, MomentApp.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestScheduleJob" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4e8ffdc0-08e3-d9c8-dd48-7e709b2509a6" executionId="db6de5f7-df79-4802-986d-267b96d3e6cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="db6de5f7-df79-4802-986d-267b96d3e6cb" testId="4e8ffdc0-08e3-d9c8-dd48-7e709b2509a6" testName="TestScheduleJob" computerName="SWEBSTER-FUSION" duration="00:00:20.8650863" startTime="2011-12-13T16:38:00.4560170-07:00" endTime="2011-12-13T16:38:21.3211033-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="db6de5f7-df79-4802-986d-267b96d3e6cb">
+    </UnitTestResult>
+  </Results>
+</TestRun>
